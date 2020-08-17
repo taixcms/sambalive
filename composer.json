@@ -1,0 +1,16 @@
+{
+  "name":"phputilities/digitalsamba",
+  "description": "Samba Live REST API",
+  "authors": [
+	{
+	  "name": "Pavel Gubin",
+	  "email": "admin@taix.ru"
+	}
+  ],
+  "require": {
+	"php": ">=5.4"
+  },
+  "autoload": {
+	"classmap": ["src"]
+  }
+}
